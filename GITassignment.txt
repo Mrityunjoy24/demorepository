@@ -16,4 +16,8 @@
 
 7. git cherry-pick <commit hash>
 
+Scenario question
 
+1. git pull origin main
+2. git pull origin main, git checkout main, git merge <branch-name>
+3. yes branching is to be done for experimentation because by branching our code in main branch is not going to be afftected by any changes in the branches unless we merge them.
